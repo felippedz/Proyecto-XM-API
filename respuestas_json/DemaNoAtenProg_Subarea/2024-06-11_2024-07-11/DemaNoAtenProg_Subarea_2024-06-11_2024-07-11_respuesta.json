@@ -1,0 +1,180 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenProg",
+        "Name": "Demanda No Atendida Programada por Subarea",
+        "StartDate": "2024-06-11T00:00:00",
+        "EndDate": "2024-07-11T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2024-06-11",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 28520
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-18",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOYACA-CASANARE",
+                    "Value": 111200
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-23",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 71130
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-24",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA VALLE",
+                    "Value": 2500
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-25",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ANTIOQUIA",
+                    "Value": 106020
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-25",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA VALLE",
+                    "Value": 1920
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-26",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 72500
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-26",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA VALLE",
+                    "Value": 1910
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-27",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA VALLE",
+                    "Value": 3320
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-28",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA VALLE",
+                    "Value": 2420
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 85950
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 399470
+                }
+            ]
+        },
+        {
+            "Date": "2024-07-07",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 518800
+                }
+            ]
+        },
+        {
+            "Date": "2024-07-07",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 296310
+                }
+            ]
+        },
+        {
+            "Date": "2024-07-07",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 380320
+                }
+            ]
+        },
+        {
+            "Date": "2024-07-09",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 11050
+                }
+            ]
+        },
+        {
+            "Date": "2024-07-11",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 176000
+                }
+            ]
+        }
+    ]
+}

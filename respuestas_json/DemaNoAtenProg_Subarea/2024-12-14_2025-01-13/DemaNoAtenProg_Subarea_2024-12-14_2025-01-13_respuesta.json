@@ -1,0 +1,70 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenProg",
+        "Name": "Demanda No Atendida Programada por Subarea",
+        "StartDate": "2024-12-14T00:00:00",
+        "EndDate": "2025-01-13T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2024-12-14",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 5820
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ATLANTICO",
+                    "Value": 39700
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CERROMATOSO",
+                    "Value": 140900
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 158150
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-17",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 329510
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-18",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOGOTA",
+                    "Value": 184800
+                }
+            ]
+        }
+    ]
+}

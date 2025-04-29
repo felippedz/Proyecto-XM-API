@@ -1,0 +1,127 @@
+{
+    "Metric": {
+        "Id": "DeltaInt",
+        "Name": "Delta Incremento Internacional por Sistema",
+        "StartDate": "2024-03-10T00:00:00",
+        "EndDate": "2024-04-09T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2024-03-18",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.38145"
+                }
+            ]
+        },
+        {
+            "Date": "2024-03-24",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.31281"
+                }
+            ]
+        },
+        {
+            "Date": "2024-03-26",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.06404"
+                }
+            ]
+        },
+        {
+            "Date": "2024-03-28",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "1.23897"
+                }
+            ]
+        },
+        {
+            "Date": "2024-03-29",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.01082"
+                }
+            ]
+        },
+        {
+            "Date": "2024-03-30",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.10195"
+                }
+            ]
+        },
+        {
+            "Date": "2024-03-31",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.08475"
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-01",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "4.82215"
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-04",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "19.34675"
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-05",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "3.54060"
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-06",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.07595"
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-07",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.21209"
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-09",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.01035"
+                }
+            ]
+        }
+    ]
+}

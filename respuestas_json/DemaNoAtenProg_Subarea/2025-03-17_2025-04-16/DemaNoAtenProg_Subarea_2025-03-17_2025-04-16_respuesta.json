@@ -1,0 +1,300 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenProg",
+        "Name": "Demanda No Atendida Programada por Subarea",
+        "StartDate": "2025-03-17T00:00:00",
+        "EndDate": "2025-04-16T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2025-03-17",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 29980
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-24",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 169860
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-24",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 345040
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-26",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 197000
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-26",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA HUILA-TOLIMA",
+                    "Value": 35280
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-27",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 622800
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-27",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 264000
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-27",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 24310
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-28",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 264000
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-29",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 264000
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-29",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 23000
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 377900
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 264000
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 117480
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 96600
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-03",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 105700
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-04",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 12300
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-05",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ANTIOQUIA",
+                    "Value": 6340
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-05",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 175400
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-05",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CERROMATOSO",
+                    "Value": 161480
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-06",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOGOTA",
+                    "Value": 29800
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-07",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 572410
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-08",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ATLANTICO",
+                    "Value": 17600
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-08",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 31200
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-08",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA SANTANDER",
+                    "Value": 4500
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-09",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 308480
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-10",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CERROMATOSO",
+                    "Value": 317540
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-10",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA SANTANDER",
+                    "Value": 3800
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-12",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 139870
+                }
+            ]
+        }
+    ]
+}

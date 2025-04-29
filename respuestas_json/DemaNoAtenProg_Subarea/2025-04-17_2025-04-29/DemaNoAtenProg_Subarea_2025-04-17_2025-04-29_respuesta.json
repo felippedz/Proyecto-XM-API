@@ -1,0 +1,70 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenProg",
+        "Name": "Demanda No Atendida Programada por Subarea",
+        "StartDate": "2025-04-17T00:00:00",
+        "EndDate": "2025-04-29T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2025-04-24",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 244360
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-27",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ATLANTICO",
+                    "Value": 240400
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-27",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 118960
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-27",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 188440
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-27",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA META",
+                    "Value": 284440
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-28",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 52930
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenProg",
+        "Name": "Demanda No Atendida Programada por Area",
+        "StartDate": "2023-04-04T00:00:00",
+        "EndDate": "2023-05-04T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2023-04-12",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 431860
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-14",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 109210
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-15",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 4350
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-16",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 1071300
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-16",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 152270
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-21",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 53170
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-22",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 223070
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-23",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 42410
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-23",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 541630
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-24",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 114320
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-26",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 217280
+                }
+            ]
+        },
+        {
+            "Date": "2023-04-30",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 213300
+                }
+            ]
+        }
+    ]
+}

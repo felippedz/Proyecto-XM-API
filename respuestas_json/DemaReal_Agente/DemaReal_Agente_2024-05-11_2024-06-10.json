@@ -1,0 +1,8 @@
+{
+    "MetricId": "DemaReal",
+    "StartDate": "2024-05-11",
+    "EndDate": "2024-06-10",
+    "Entity": "Agente",
+    "Filter": [],
+    "Url": "http://servapibi.xm.com.co/hourly"
+}

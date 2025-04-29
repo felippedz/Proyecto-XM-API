@@ -1,0 +1,240 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenProg",
+        "Name": "Demanda No Atendida Programada por Subarea",
+        "StartDate": "2023-07-06T00:00:00",
+        "EndDate": "2023-08-05T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2023-07-06",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 9100
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-06",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 55060
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-06",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA SANTANDER",
+                    "Value": 246610
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-09",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ATLANTICO",
+                    "Value": 260690
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-09",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 218110
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-09",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 86700
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-10",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 518090
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-13",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA SANTANDER",
+                    "Value": 37320
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-16",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 61180
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-17",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOGOTA",
+                    "Value": 92630
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-23",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ATLANTICO",
+                    "Value": 566460
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-23",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOGOTA",
+                    "Value": 104970
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-23",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 500560
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-26",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ANTIOQUIA",
+                    "Value": 56400
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-26",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ARAUCA",
+                    "Value": 242840
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-27",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA HUILA-TOLIMA",
+                    "Value": 7200
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-29",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ATLANTICO",
+                    "Value": 270900
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 47520
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CERROMATOSO",
+                    "Value": 208400
+                }
+            ]
+        },
+        {
+            "Date": "2023-07-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 206700
+                }
+            ]
+        },
+        {
+            "Date": "2023-08-01",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 194080
+                }
+            ]
+        },
+        {
+            "Date": "2023-08-02",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 51870
+                }
+            ]
+        },
+        {
+            "Date": "2023-08-05",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 425580
+                }
+            ]
+        }
+    ]
+}

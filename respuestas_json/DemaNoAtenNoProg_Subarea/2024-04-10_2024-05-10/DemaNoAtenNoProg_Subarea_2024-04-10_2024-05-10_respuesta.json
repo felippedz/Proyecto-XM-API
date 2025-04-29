@@ -1,0 +1,660 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenNoProg",
+        "Name": "Demanda No Atendida No Programada por Subarea",
+        "StartDate": "2024-04-10T00:00:00",
+        "EndDate": "2024-05-10T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2024-04-10",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 1680
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-11",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 6230
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-11",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 1040
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-12",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 6370
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-12",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 44450
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-13",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 2050
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-13",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 2160
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-14",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 29700
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ANTIOQUIA",
+                    "Value": 1600
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 4870
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 92640
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 3800
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 23200
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-16",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 59970
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-16",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA HUILA-TOLIMA",
+                    "Value": 2090
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-17",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 1600
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-17",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAQUETA",
+                    "Value": 9500
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-17",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 81430
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-18",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 83940
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-18",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 9030
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-18",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 32080
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-19",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOYACA-CASANARE",
+                    "Value": 2200
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-19",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 83940
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-19",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA HUILA-TOLIMA",
+                    "Value": 13790
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-19",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA META",
+                    "Value": 1220
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-20",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOGOTA",
+                    "Value": 9000
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-20",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 83940
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-21",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 84020
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-21",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 121430
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-21",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 67000
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-22",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 83940
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-22",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 4520
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-22",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 7220
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-23",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 40500
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-23",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 21620
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-23",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 2400
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-23",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA META",
+                    "Value": 1140
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-24",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 15300
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-25",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA SANTANDER",
+                    "Value": 18160
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-26",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ANTIOQUIA",
+                    "Value": 1700
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-26",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 4800
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-26",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 2750
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-26",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA PUTUMAYO",
+                    "Value": 54340
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-27",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 5660
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-28",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAQUETA",
+                    "Value": 4000
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-29",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 4900
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ANTIOQUIA",
+                    "Value": 2030
+                }
+            ]
+        },
+        {
+            "Date": "2024-04-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 4030
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-01",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAQUETA",
+                    "Value": 7450
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-01",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CAUCA-NARINO",
+                    "Value": 2430
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-02",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 68100
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-02",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA SANTANDER",
+                    "Value": 3170
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-03",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 21470
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-04",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 5770
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-05",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOGOTA",
+                    "Value": 98260
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-05",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 10950
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-06",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 4470
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-07",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ATLANTICO",
+                    "Value": 52950
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-07",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 3900
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-08",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 41100
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-08",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA META",
+                    "Value": 77600
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-09",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ATLANTICO",
+                    "Value": 10000
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-09",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 14600
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-09",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 2350
+                }
+            ]
+        },
+        {
+            "Date": "2024-05-10",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 3130
+                }
+            ]
+        }
+    ]
+}

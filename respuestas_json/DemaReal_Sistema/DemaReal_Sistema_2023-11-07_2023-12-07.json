@@ -1,0 +1,8 @@
+{
+    "MetricId": "DemaReal",
+    "StartDate": "2023-11-07",
+    "EndDate": "2023-12-07",
+    "Entity": "Sistema",
+    "Filter": [],
+    "Url": "http://servapibi.xm.com.co/hourly"
+}

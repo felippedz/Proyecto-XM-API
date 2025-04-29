@@ -1,0 +1,320 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenProg",
+        "Name": "Demanda No Atendida Programada por Subarea",
+        "StartDate": "2024-09-12T00:00:00",
+        "EndDate": "2024-10-12T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2024-09-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOYACA-CASANARE",
+                    "Value": 13800
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CERROMATOSO",
+                    "Value": 140620
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CORDOBA_SUCRE",
+                    "Value": 145250
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 130070
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-15",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA META",
+                    "Value": 154460
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-17",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ARAUCA",
+                    "Value": 6603300
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-17",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOYACA-CASANARE",
+                    "Value": 8500
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-17",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA CQR",
+                    "Value": 40950
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-17",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 66740
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-18",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ARAUCA",
+                    "Value": 555650
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-18",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOYACA-CASANARE",
+                    "Value": 1000
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-18",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA HUILA-TOLIMA",
+                    "Value": 48490
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-18",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 40890
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-19",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ARAUCA",
+                    "Value": 359000
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-19",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOYACA-CASANARE",
+                    "Value": 290
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-19",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 2740
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-22",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 160280
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-23",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 55440
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-28",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 166000
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-29",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA NORTE DE SANTANDER",
+                    "Value": 123790
+                }
+            ]
+        },
+        {
+            "Date": "2024-09-30",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOGOTA",
+                    "Value": 72000
+                }
+            ]
+        },
+        {
+            "Date": "2024-10-03",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ANTIOQUIA",
+                    "Value": 9500
+                }
+            ]
+        },
+        {
+            "Date": "2024-10-03",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA HUILA-TOLIMA",
+                    "Value": 17590
+                }
+            ]
+        },
+        {
+            "Date": "2024-10-04",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 33000
+                }
+            ]
+        },
+        {
+            "Date": "2024-10-05",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOLIVAR",
+                    "Value": 142000
+                }
+            ]
+        },
+        {
+            "Date": "2024-10-05",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA SANTANDER",
+                    "Value": 7460
+                }
+            ]
+        },
+        {
+            "Date": "2024-10-06",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ATLANTICO",
+                    "Value": 135500
+                }
+            ]
+        },
+        {
+            "Date": "2024-10-06",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA GCM",
+                    "Value": 404800
+                }
+            ]
+        },
+        {
+            "Date": "2024-10-06",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA SANTANDER",
+                    "Value": 7460
+                }
+            ]
+        },
+        {
+            "Date": "2024-10-08",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA ATLANTICO",
+                    "Value": 324420
+                }
+            ]
+        },
+        {
+            "Date": "2024-10-10",
+            "DailyEntities": [
+                {
+                    "Id": "Subarea",
+                    "Name": "SUBAREA BOYACA-CASANARE",
+                    "Value": 8900
+                }
+            ]
+        }
+    ]
+}

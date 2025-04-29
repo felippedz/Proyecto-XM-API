@@ -1,0 +1,127 @@
+{
+    "Metric": {
+        "Id": "DeltaNal",
+        "Name": "Delta Incremento Nacional por Sistema",
+        "StartDate": "2023-09-06T00:00:00",
+        "EndDate": "2023-10-06T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2023-09-06",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.94582"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-07",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.04677"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-16",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.33591"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-17",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "2.09688"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-18",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "1.11617"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-19",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.02121"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-23",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.00001"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-24",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.90183"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-28",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.77541"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-29",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "1.27154"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-30",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.04279"
+                }
+            ]
+        },
+        {
+            "Date": "2023-10-01",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.62188"
+                }
+            ]
+        },
+        {
+            "Date": "2023-10-03",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.31605"
+                }
+            ]
+        }
+    ]
+}

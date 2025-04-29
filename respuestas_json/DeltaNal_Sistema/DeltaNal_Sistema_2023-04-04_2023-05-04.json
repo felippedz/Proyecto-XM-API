@@ -1,0 +1,8 @@
+{
+    "MetricId": "DeltaNal",
+    "StartDate": "2023-04-04",
+    "EndDate": "2023-05-04",
+    "Entity": "Sistema",
+    "Filter": [],
+    "Url": "http://servapibi.xm.com.co/daily"
+}

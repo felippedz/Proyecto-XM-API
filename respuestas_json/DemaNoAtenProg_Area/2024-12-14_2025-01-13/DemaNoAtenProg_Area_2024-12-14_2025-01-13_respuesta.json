@@ -1,0 +1,50 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenProg",
+        "Name": "Demanda No Atendida Programada por Area",
+        "StartDate": "2024-12-14T00:00:00",
+        "EndDate": "2025-01-13T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2024-12-14",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 5820
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-15",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 338750
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-17",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 329510
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-18",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 184800
+                }
+            ]
+        }
+    ]
+}

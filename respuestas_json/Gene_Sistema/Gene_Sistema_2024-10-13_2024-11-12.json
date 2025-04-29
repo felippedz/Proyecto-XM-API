@@ -1,0 +1,8 @@
+{
+    "MetricId": "Gene",
+    "StartDate": "2024-10-13",
+    "EndDate": "2024-11-12",
+    "Entity": "Sistema",
+    "Filter": [],
+    "Url": "http://servapibi.xm.com.co/hourly"
+}

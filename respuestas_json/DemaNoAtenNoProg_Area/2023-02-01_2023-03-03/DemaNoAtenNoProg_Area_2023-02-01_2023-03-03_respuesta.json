@@ -1,0 +1,280 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenNoProg",
+        "Name": "Demanda No Atendida No Programada por Area",
+        "StartDate": "2023-02-01T00:00:00",
+        "EndDate": "2023-03-03T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2023-02-01",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 15770
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-03",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 1220
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-05",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 18290
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-06",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 1160
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-06",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 3070
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-06",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 2040
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-07",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 1320
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-07",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 27260
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-07",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 1100
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-07",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 6710
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-08",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 27600
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-12",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 4830
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-16",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 162610
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-19",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 11110
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-21",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 20210
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-21",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 9900
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-23",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 22310
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-23",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 15600
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-24",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 6880
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-27",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 26210
+                }
+            ]
+        },
+        {
+            "Date": "2023-02-28",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 35440
+                }
+            ]
+        },
+        {
+            "Date": "2023-03-01",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 1600
+                }
+            ]
+        },
+        {
+            "Date": "2023-03-01",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 1180
+                }
+            ]
+        },
+        {
+            "Date": "2023-03-01",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 27590
+                }
+            ]
+        },
+        {
+            "Date": "2023-03-02",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 154130
+                }
+            ]
+        },
+        {
+            "Date": "2023-03-03",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 11200
+                }
+            ]
+        },
+        {
+            "Date": "2023-03-03",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 7490
+                }
+            ]
+        }
+    ]
+}

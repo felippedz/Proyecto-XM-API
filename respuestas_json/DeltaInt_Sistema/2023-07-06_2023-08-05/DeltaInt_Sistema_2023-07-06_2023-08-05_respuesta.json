@@ -1,0 +1,9 @@
+{
+    "Metric": {
+        "Id": "DeltaInt",
+        "Name": "Delta Incremento Internacional por Sistema",
+        "StartDate": "2023-07-06T00:00:00",
+        "EndDate": "2023-08-05T00:00:00"
+    },
+    "Items": []
+}

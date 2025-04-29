@@ -1,0 +1,109 @@
+{
+    "Metric": {
+        "Id": "DeltaInt",
+        "Name": "Delta Incremento Internacional por Sistema",
+        "StartDate": "2023-01-01T00:00:00",
+        "EndDate": "2023-01-31T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2023-01-06",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.04726"
+                }
+            ]
+        },
+        {
+            "Date": "2023-01-08",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "2.54416"
+                }
+            ]
+        },
+        {
+            "Date": "2023-01-09",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "1.29311"
+                }
+            ]
+        },
+        {
+            "Date": "2023-01-10",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "4.38482"
+                }
+            ]
+        },
+        {
+            "Date": "2023-01-11",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.03990"
+                }
+            ]
+        },
+        {
+            "Date": "2023-01-12",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "1.03519"
+                }
+            ]
+        },
+        {
+            "Date": "2023-01-17",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.51390"
+                }
+            ]
+        },
+        {
+            "Date": "2023-01-19",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.08655"
+                }
+            ]
+        },
+        {
+            "Date": "2023-01-21",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.52669"
+                }
+            ]
+        },
+        {
+            "Date": "2023-01-22",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.24197"
+                }
+            ]
+        },
+        {
+            "Date": "2023-01-25",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "3.79225"
+                }
+            ]
+        }
+    ]
+}

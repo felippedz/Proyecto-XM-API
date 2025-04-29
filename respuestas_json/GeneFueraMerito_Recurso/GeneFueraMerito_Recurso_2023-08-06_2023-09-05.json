@@ -1,0 +1,8 @@
+{
+    "MetricId": "GeneFueraMerito",
+    "StartDate": "2023-08-06",
+    "EndDate": "2023-09-05",
+    "Entity": "Recurso",
+    "Filter": [],
+    "Url": "http://servapibi.xm.com.co/hourly"
+}

@@ -1,0 +1,64 @@
+{
+    "Metric": {
+        "Id": "DeltaInt",
+        "Name": "Delta Incremento Internacional por Sistema",
+        "StartDate": "2023-09-06T00:00:00",
+        "EndDate": "2023-10-06T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2023-09-17",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.11131"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-18",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.19129"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-24",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.22115"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-27",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.00353"
+                }
+            ]
+        },
+        {
+            "Date": "2023-09-30",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.03823"
+                }
+            ]
+        },
+        {
+            "Date": "2023-10-01",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.61435"
+                }
+            ]
+        }
+    ]
+}

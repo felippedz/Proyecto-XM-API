@@ -1,0 +1,289 @@
+{
+    "Metric": {
+        "Id": "DeltaNal",
+        "Name": "Delta Incremento Nacional por Sistema",
+        "StartDate": "2024-11-13T00:00:00",
+        "EndDate": "2024-12-13T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2024-11-13",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "2.94806"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-14",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "3.92139"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-15",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "8.09889"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-16",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "4.11469"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-17",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "12.79746"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-18",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "11.96615"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-19",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "6.11512"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-20",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.04070"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-21",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "10.33942"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-22",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "5.26645"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-23",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "7.36001"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-24",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "4.25425"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-25",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "7.81582"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-26",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "9.59488"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-27",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "5.11765"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-28",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.04286"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-29",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "8.03698"
+                }
+            ]
+        },
+        {
+            "Date": "2024-11-30",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "4.00319"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-01",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "1.73583"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-02",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.62770"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-03",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "1.59975"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-04",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "1.15390"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-05",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.61306"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-06",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.65887"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-07",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.05750"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-08",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "4.57573"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-09",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.08784"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-10",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.61656"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-11",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.06624"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-12",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.49093"
+                }
+            ]
+        },
+        {
+            "Date": "2024-12-13",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.15081"
+                }
+            ]
+        }
+    ]
+}

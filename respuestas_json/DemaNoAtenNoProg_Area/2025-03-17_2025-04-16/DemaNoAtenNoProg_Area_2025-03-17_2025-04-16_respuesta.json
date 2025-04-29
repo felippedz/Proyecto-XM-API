@@ -1,0 +1,850 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenNoProg",
+        "Name": "Demanda No Atendida No Programada por Area",
+        "StartDate": "2025-03-17T00:00:00",
+        "EndDate": "2025-04-16T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2025-03-17",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 16760
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-17",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 34180
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-17",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 190
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-17",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 5670
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-18",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 24160
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-18",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 1460
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-18",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 11400
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-19",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 25960
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-19",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 10460
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-19",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 7530
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-20",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 160170
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-20",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 30880
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-21",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 60000
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-21",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 100
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-21",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 11990
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-22",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 10040
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-22",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 5920
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-23",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 14600
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-23",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 3910
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-24",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 15720
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-24",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 113720
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-24",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 8130
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-25",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 39160
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-25",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 45440
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-25",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 31380
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-26",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 27720
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-26",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 19580
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-27",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 32530
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-27",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 137400
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-27",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 4600
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-27",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 21580
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-28",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 24900
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-28",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 18860
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-29",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 21930
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-29",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 7750
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-30",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 18670
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-30",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 78980
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-30",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 2700
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-30",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 8480
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-31",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 3200
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-31",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 400
+                }
+            ]
+        },
+        {
+            "Date": "2025-03-31",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 900
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-01",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 1900
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-01",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 570
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-01",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 890
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-02",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 12000
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-02",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 730
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-02",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 110
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-03",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 3970
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-03",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 310
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-04",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 1100
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-04",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 48760
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-04",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 14200
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-05",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 100
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-05",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 100440
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-05",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 500
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-05",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 2320
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-06",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 10350
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-06",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 134000
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-06",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 4400
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-07",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 59770
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-07",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 40
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-07",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 820
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-07",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 850
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-08",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 38830
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-08",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 800
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-08",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 1600
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-09",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 12290
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-09",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 27310
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-09",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 750
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-09",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 2210
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-10",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 8950
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-10",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 66620
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-11",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 417320
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-12",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 342650
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-13",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 1700
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-14",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 15850
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-14",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 92020
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-15",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 8300
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-15",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 43520
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-15",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 3800
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-16",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 12400
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-16",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 24750
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-16",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 1900
+                }
+            ]
+        }
+    ]
+}

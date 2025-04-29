@@ -1,0 +1,8 @@
+{
+    "MetricId": "PerdidasEner",
+    "StartDate": "2023-01-01",
+    "EndDate": "2023-01-31",
+    "Entity": "Agente",
+    "Filter": [],
+    "Url": "http://servapibi.xm.com.co/hourly"
+}

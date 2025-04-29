@@ -1,0 +1,8 @@
+{
+    "MetricId": "DispoCome",
+    "StartDate": "2024-11-13",
+    "EndDate": "2024-12-13",
+    "Entity": "Recurso",
+    "Filter": [],
+    "Url": "http://servapibi.xm.com.co/hourly"
+}

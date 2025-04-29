@@ -1,0 +1,160 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenProg",
+        "Name": "Demanda No Atendida Programada por Area",
+        "StartDate": "2025-01-14T00:00:00",
+        "EndDate": "2025-02-13T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2025-01-16",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 252700
+                }
+            ]
+        },
+        {
+            "Date": "2025-01-19",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 368250
+                }
+            ]
+        },
+        {
+            "Date": "2025-01-21",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 6000
+                }
+            ]
+        },
+        {
+            "Date": "2025-01-22",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 6070
+                }
+            ]
+        },
+        {
+            "Date": "2025-01-26",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 884420
+                }
+            ]
+        },
+        {
+            "Date": "2025-01-28",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 20000
+                }
+            ]
+        },
+        {
+            "Date": "2025-01-28",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 166400
+                }
+            ]
+        },
+        {
+            "Date": "2025-01-29",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 20000
+                }
+            ]
+        },
+        {
+            "Date": "2025-01-30",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 94240
+                }
+            ]
+        },
+        {
+            "Date": "2025-02-02",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 17300
+                }
+            ]
+        },
+        {
+            "Date": "2025-02-04",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 553450
+                }
+            ]
+        },
+        {
+            "Date": "2025-02-05",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 99150
+                }
+            ]
+        },
+        {
+            "Date": "2025-02-05",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ORIENTAL",
+                    "Value": 34240
+                }
+            ]
+        },
+        {
+            "Date": "2025-02-09",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 64000
+                }
+            ]
+        },
+        {
+            "Date": "2025-02-10",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 180000
+                }
+            ]
+        }
+    ]
+}

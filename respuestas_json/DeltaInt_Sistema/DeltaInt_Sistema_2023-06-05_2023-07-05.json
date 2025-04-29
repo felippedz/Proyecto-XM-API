@@ -1,0 +1,8 @@
+{
+    "MetricId": "DeltaInt",
+    "StartDate": "2023-06-05",
+    "EndDate": "2023-07-05",
+    "Entity": "Sistema",
+    "Filter": [],
+    "Url": "http://servapibi.xm.com.co/daily"
+}

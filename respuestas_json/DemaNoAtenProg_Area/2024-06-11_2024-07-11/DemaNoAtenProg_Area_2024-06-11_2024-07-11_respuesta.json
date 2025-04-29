@@ -1,0 +1,150 @@
+{
+    "Metric": {
+        "Id": "DemaNoAtenProg",
+        "Name": "Demanda No Atendida Programada por Area",
+        "StartDate": "2024-06-11T00:00:00",
+        "EndDate": "2024-07-11T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2024-06-11",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 28520
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-18",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 111200
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-23",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 71130
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-24",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 2500
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-25",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA ANTIOQUIA",
+                    "Value": 106020
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-25",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 1920
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-26",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 72500
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-26",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 1910
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-27",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 3320
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-28",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA SUROCCIDENTAL",
+                    "Value": 2420
+                }
+            ]
+        },
+        {
+            "Date": "2024-06-30",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 485420
+                }
+            ]
+        },
+        {
+            "Date": "2024-07-07",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA CARIBE",
+                    "Value": 1195430
+                }
+            ]
+        },
+        {
+            "Date": "2024-07-09",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 11050
+                }
+            ]
+        },
+        {
+            "Date": "2024-07-11",
+            "DailyEntities": [
+                {
+                    "Id": "Area",
+                    "Name": "AREA NORDESTE",
+                    "Value": 176000
+                }
+            ]
+        }
+    ]
+}

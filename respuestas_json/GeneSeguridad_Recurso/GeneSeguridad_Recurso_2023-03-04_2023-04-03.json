@@ -1,0 +1,8 @@
+{
+    "MetricId": "GeneSeguridad",
+    "StartDate": "2023-03-04",
+    "EndDate": "2023-04-03",
+    "Entity": "Recurso",
+    "Filter": [],
+    "Url": "http://servapibi.xm.com.co/hourly"
+}

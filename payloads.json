@@ -1,0 +1,5042 @@
+[
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-01-01",
+            "EndDate": "2023-01-31",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-02-01",
+            "EndDate": "2023-03-03",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-03-04",
+            "EndDate": "2023-04-03",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-04-04",
+            "EndDate": "2023-05-04",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-05-05",
+            "EndDate": "2023-06-04",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-06-05",
+            "EndDate": "2023-07-05",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-07-06",
+            "EndDate": "2023-08-05",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-08-06",
+            "EndDate": "2023-09-05",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-09-06",
+            "EndDate": "2023-10-06",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-10-07",
+            "EndDate": "2023-11-06",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-11-07",
+            "EndDate": "2023-12-07",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2023-12-08",
+            "EndDate": "2024-01-07",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-01-08",
+            "EndDate": "2024-02-07",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-02-08",
+            "EndDate": "2024-03-09",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-03-10",
+            "EndDate": "2024-04-09",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-04-10",
+            "EndDate": "2024-05-10",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-05-11",
+            "EndDate": "2024-06-10",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-06-11",
+            "EndDate": "2024-07-11",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-07-12",
+            "EndDate": "2024-08-11",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-08-12",
+            "EndDate": "2024-09-11",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-09-12",
+            "EndDate": "2024-10-12",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-10-13",
+            "EndDate": "2024-11-12",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-11-13",
+            "EndDate": "2024-12-13",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2024-12-14",
+            "EndDate": "2025-01-13",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2025-01-14",
+            "EndDate": "2025-02-13",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2025-02-14",
+            "EndDate": "2025-03-16",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2025-03-17",
+            "EndDate": "2025-04-16",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaReal",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "RestAliv",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "Gene",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneSeguridad",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "GeneFueraMerito",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoReal",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoCome",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DispoDeclarada",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Recurso",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "PerdidasEner",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Agente",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/hourly"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaInt",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DeltaNal",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Sistema",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Area",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenProg",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    },
+    {
+        "payload": {
+            "MetricId": "DemaNoAtenNoProg",
+            "StartDate": "2025-04-17",
+            "EndDate": "2025-04-28",
+            "Entity": "Subarea",
+            "Filter": []
+        },
+        "url": "http://servapibi.xm.com.co/daily"
+    }
+]

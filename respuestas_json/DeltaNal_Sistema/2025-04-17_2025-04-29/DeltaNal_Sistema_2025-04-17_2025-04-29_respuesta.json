@@ -1,0 +1,100 @@
+{
+    "Metric": {
+        "Id": "DeltaNal",
+        "Name": "Delta Incremento Nacional por Sistema",
+        "StartDate": "2025-04-17T00:00:00",
+        "EndDate": "2025-04-29T00:00:00"
+    },
+    "Items": [
+        {
+            "Date": "2025-04-17",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "2.70078"
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-18",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "0.08873"
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-19",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "4.59269"
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-20",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "2.06064"
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-21",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "1.37439"
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-22",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "2.82019"
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-23",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "4.49775"
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-24",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "2.72205"
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-25",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "4.77236"
+                }
+            ]
+        },
+        {
+            "Date": "2025-04-26",
+            "DailyEntities": [
+                {
+                    "Id": "Sistema",
+                    "Value": "5.45267"
+                }
+            ]
+        }
+    ]
+}
